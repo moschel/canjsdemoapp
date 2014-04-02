@@ -1,0 +1,14 @@
+{
+  "name": "steal",
+  "homepage": "https://github.com/bitovi/steal",
+  "version": "3.3.0",
+  "_release": "3.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.3.0",
+    "commit": "b0a9b68c521435ec5451565432b81f772b3d3ae8"
+  },
+  "_source": "git@github.com:bitovi/steal.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:bitovi/steal.git"
+}
