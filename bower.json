@@ -1,0 +1,22 @@
+{
+  "name": "analytics",
+  "version": "0.0.1",
+  "main": "analytics/analytics.js",
+  "license": "All Rights Reserved",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "can": "git@github.com:bitovi/canjs.git",
+    "funcunit": "~2.0.3",
+    "qunit": "~1.12.0",
+    "lodash": "~2.4.1",
+    "momentjs": "~2.5.1",
+    "steal": "git@github.com:bitovi/steal.git"
+  }
+}
